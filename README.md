@@ -27,3 +27,15 @@ int main() {
 
     return 0;
 }
+
+## Ejemplo de compilacion:
+
+
+
+## Contribuciones y Problemas:
+
+¡Las contribuciones son bienvenidas! Si encuentras un problema o deseas mejorar la microlibrería, no dudes en abrir un problema o enviar una solicitud de extracción.
+
+## Licencia:
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
