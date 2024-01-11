@@ -33,7 +33,9 @@ int main() {
 ## Ejemplo de compilacion:
 
 **G++:** g++ main.cpp -o app -pthread
+
 **Clang++:** clang++ main.cpp -o app -pthread
+
 **MSVC:** cl /EHsc main.cpp /Feapp /MD 
 
 ## Contribuciones y Problemas:
